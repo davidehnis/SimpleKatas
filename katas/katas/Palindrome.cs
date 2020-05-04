@@ -4,7 +4,7 @@ using System.Linq;
 namespace katas
 {
     /// <summary>
-    /// Foreach number in a range from low to high Sum all of the palindrome numbers in the sequence.
+    /// For each number in a range from low to high Sum all of the palindrome numbers in the sequence.
     /// </summary>
     public class Palindrome
     {
